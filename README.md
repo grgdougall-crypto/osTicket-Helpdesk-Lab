@@ -107,6 +107,23 @@ Created multiple realistic support tickets to demonstrate queue management, tick
 
 Demonstrated the full ticket lifecycle, including ticket creation, department assignment, technician response, internal documentation, and final resolution.
 
+---
+
+## Linux and Server Administration Tasks
+
+- Installed and configured Ubuntu Server
+- Configured Apache web server
+- Installed and secured MariaDB
+- Configured PHP dependencies for osTicket
+- Managed Linux file permissions and ownership
+- Edited configuration files through the Linux terminal
+- Verified database connectivity through MariaDB CLI
+- Removed default installation setup files for security
+- Restarted and verified Apache and MariaDB services
+- Performed troubleshooting through terminal commands and log analysis
+
+---
+
 ## Skills Demonstrated
 
 - Help desk administration
