@@ -62,27 +62,61 @@ This lab simulates a real-world IT help desk environment with multiple departmen
 
 ### Help Topics and SLA Routing
 
-![Help Topics](screenshots/01-osticket-help-topics-sla-routing.png)
+<p align="center">
+  <img src="screenshots/01-osticket-help-topics-sla-routing.png" width="800">
+</p>
+
+Configured help topics and SLA routing policies to organize incoming support requests by department, category, and urgency.
+
+---
 
 ### SLA Priority Management
 
-![SLA Priority](screenshots/02-osticket-sla-priority-management.png)
+<p align="center">
+  <img src="screenshots/02-osticket-sla-priority-management.png" width="800">
+</p>
+
+Created SLA plans to define response expectations for normal, high-priority, and urgent support scenarios.
+
+---
 
 ### Agents and Departments
 
-![Agents and Departments](screenshots/03-osticket-agents-and-departments.png)
+<p align="center">
+  <img src="screenshots/03-osticket-agents-and-departments.png" width="800">
+</p>
+
+Created multiple departments and agent accounts with role-based permissions to simulate a real-world multi-team IT support environment.
+
+---
 
 ### HR Onboarding Ticket Workflow
 
-![HR Workflow](screenshots/04-osticket-ticket-workflow-hr-onboarding.png)
+<p align="center">
+  <img src="screenshots/04-osticket-ticket-workflow-hr-onboarding.png" width="800">
+</p>
+
+Demonstrated department-based ticket routing by forwarding a new employee onboarding request from HR Support to IT Support.
+
+---
 
 ### Multi-Ticket Queue Management
 
-![Ticket Queue](screenshots/05-osticket-multi-priority-ticket-queue.png)
+<p align="center">
+  <img src="screenshots/05-osticket-multi-priority-ticket-queue.png" width="800">
+</p>
+
+Created multiple realistic support tickets to demonstrate queue management, ticket prioritization, and operational workload visibility.
+
+---
 
 ### End-to-End Ticket Resolution
 
-![Ticket Resolution](screenshots/06-osticket-end-to-end-ticket-resolution.png)
+<p align="center">
+  <img src="screenshots/06-osticket-end-to-end-ticket-resolution.png" width="800">
+</p>
+
+Demonstrated the full ticket lifecycle, including ticket creation, department assignment, technician response, internal documentation, and final resolution.
 
 ---
 
