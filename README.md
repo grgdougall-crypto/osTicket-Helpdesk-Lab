@@ -60,17 +60,29 @@ This lab simulates a real-world IT help desk environment with multiple departmen
 
 ## Screenshots
 
-### Agent and Department Configuration
+### Help Topics and SLA Routing
 
-![Agents](screenshots/osticket-agents-and-departments.png)
+![Help Topics](screenshots/01-osticket-help-topics-sla-routing.png)
 
-### Open Ticket Queue
+### SLA Priority Management
 
-![Queue](screenshots/osticket-open-ticket-queue.png)
+![SLA Priority](screenshots/02-osticket-sla-priority-management.png)
 
-### End-to-End Ticket Resolution Workflow
+### Agents and Departments
 
-![Lifecycle](screenshots/osticket-end-to-end-ticket-resolution.png)
+![Agents and Departments](screenshots/03-osticket-agents-and-departments.png)
+
+### HR Onboarding Ticket Workflow
+
+![HR Workflow](screenshots/04-osticket-ticket-workflow-hr-onboarding.png)
+
+### Multi-Ticket Queue Management
+
+![Ticket Queue](screenshots/05-osticket-multi-priority-ticket-queue.png)
+
+### End-to-End Ticket Resolution
+
+![Ticket Resolution](screenshots/06-osticket-end-to-end-ticket-resolution.png)
 
 ---
 
