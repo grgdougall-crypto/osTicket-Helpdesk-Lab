@@ -63,7 +63,7 @@ This lab simulates a real-world IT help desk environment with multiple departmen
 
 ### Help Topics and SLA Routing
 
-<img src="screenshots/help-topics-sla-routing.png" width="750">
+<img src="screenshots/01-osticket-help-topics-sla-routing.png" width="750">
 
 Configured help topics and SLA routing policies to organize incoming support requests by department, category, and urgency.
 
@@ -71,7 +71,7 @@ Configured help topics and SLA routing policies to organize incoming support req
 
 ### SLA Priority Management
 
-<img src="screenshots/sla-priority-management.png" width="750">
+<img src="screenshots/02-osticket-sla-priority-management.png" width="750">
 
 Created SLA plans to define response expectations for normal, high-priority, and urgent support scenarios.
 
@@ -79,7 +79,7 @@ Created SLA plans to define response expectations for normal, high-priority, and
 
 ### Agents and Departments
 
-<img src="screenshots/agents-departments.png" width="750">
+<img src="screenshots/03-osticket-agents-and-departments.png" width="750">
 
 Created multiple departments and agent accounts with role-based permissions to simulate a real-world multi-team IT support environment.
 
@@ -87,7 +87,7 @@ Created multiple departments and agent accounts with role-based permissions to s
 
 ### HR Onboarding Ticket Workflow
 
-<img src="screenshots/hr-onboarding-ticket-workflow.png" width="750">
+<img src="screenshots/04-osticket-ticket-workflow-hr-onboarding.png" width="750">
 
 Demonstrated department-based ticket routing by forwarding a new employee onboarding request from HR Support to IT Support.
 
@@ -95,7 +95,7 @@ Demonstrated department-based ticket routing by forwarding a new employee onboar
 
 ### Multi-Ticket Queue Management
 
-<img src="screenshots/multi-ticket-queue-management.png" width="750">
+<img src="screenshots/05-osticket-multi-priority-ticket-queue.png" width="750">
 
 Created multiple realistic support tickets to demonstrate queue management, ticket prioritization, and operational workload visibility.
 
@@ -103,7 +103,7 @@ Created multiple realistic support tickets to demonstrate queue management, tick
 
 ### End-to-End Ticket Resolution
 
-<img src="screenshots/end-to-end-ticket-resolution.png" width="750">
+<img src="screenshots/06-osticket-end-to-end-ticket-resolution.png" width="750">
 
 Demonstrated the full ticket lifecycle, including ticket creation, department assignment, technician response, internal documentation, and final resolution.
 
