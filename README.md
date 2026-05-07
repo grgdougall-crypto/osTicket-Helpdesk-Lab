@@ -32,6 +32,14 @@ This project was designed to demonstrate practical skills commonly used in help 
 
 ---
 
+## Network Diagram
+
+<img src="screenshots/10-osticket-helpdesk-lab-diagram.png" width="900">
+
+This diagram illustrates the virtualized osTicket lab environment hosted on a Windows 11 system using Hyper-V virtualization. The Ubuntu Server virtual machine hosts Apache2, PHP, MariaDB, and the osTicket help desk application, while Windows clients access the help desk portal through a web browser.
+
+---
+
 ## Technologies Used
 
 - Ubuntu Server
