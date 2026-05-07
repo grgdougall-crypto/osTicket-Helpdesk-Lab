@@ -2,9 +2,21 @@
 
 Built and configured a fully functional osTicket help desk lab environment using Ubuntu Server, Apache, MariaDB, PHP, and Hyper-V virtualization. This project demonstrates ticket workflows, SLA management, departmental routing, agent permissions, and end-to-end IT support operations.
 
+---
+
 ## Overview
 
 This lab simulates a real-world IT help desk environment with multiple departments, agents, ticket queues, and support workflows. Users submit tickets through the osTicket portal, tickets are routed to the appropriate department, assigned to agents, updated with internal notes and replies, and resolved through a complete ticket lifecycle process.
+
+---
+
+## Project Goals
+
+The goal of this lab was to simulate a realistic IT support environment while gaining hands-on experience with Linux server administration, web application deployment, database management, ticket workflows, and support operations documentation.
+
+This project was designed to demonstrate practical skills commonly used in help desk, junior system administration, and IT support roles.
+
+---
 
 ## Lab Environment
 
@@ -16,7 +28,9 @@ This lab simulates a real-world IT help desk environment with multiple departmen
 | Web Server | Apache2 |
 | Database | MariaDB |
 | Application | osTicket |
-| Scripting/Backend | PHP |
+| Backend/Scripting | PHP |
+
+---
 
 ## Technologies Used
 
@@ -27,6 +41,8 @@ This lab simulates a real-world IT help desk environment with multiple departmen
 - osTicket
 - Windows 11
 - Hyper-V
+
+---
 
 ## Features Configured
 
@@ -40,6 +56,8 @@ This lab simulates a real-world IT help desk environment with multiple departmen
 - End-user support portal
 - Department-based ticket visibility
 
+---
+
 ## Example Ticket Scenarios
 
 - New Employee Onboarding
@@ -49,19 +67,49 @@ This lab simulates a real-world IT help desk environment with multiple departmen
 - Security Incident Reporting
 - Software Installation Requests
 
+---
+
 ## Ticket Workflow Demonstrated
 
-1. User submits a support request.
-2. Ticket is routed to the appropriate department.
-3. Department assigns the ticket to a technician.
-4. Internal notes and ticket updates are added.
-5. Technician responds to the user.
-6. Issue is resolved.
-7. Ticket status is updated and closed.
+1. User submits a support request
+2. Ticket is routed to the appropriate department
+3. Department assigns the ticket to a technician
+4. Internal notes and ticket updates are added
+5. Technician responds to the user
+6. Issue is resolved
+7. Ticket status is updated and closed
 
-## Screenshots
+---
 
-### Help Topics and SLA Routing
+# Lab Environment Screenshots
+
+---
+
+## Hyper-V Virtual Lab Environment
+
+<img src="screenshots/07-hyperv-lab-environment.png" width="750">
+
+Hyper-V virtual environment hosting the Ubuntu-based osTicket server and supporting lab infrastructure.
+
+---
+
+## MariaDB osTicket Database Verification
+
+<img src="screenshots/08-mariadb-osticket-database.png" width="750">
+
+MariaDB command-line verification showing osTicket database tables successfully installed and configured.
+
+---
+
+## Apache Web Service Connectivity Test
+
+<img src="screenshots/09-apache-web-connectivity-test.png" width="750">
+
+Linux terminal connectivity testing verifying Apache web services and osTicket web portal accessibility.
+
+---
+
+## Help Topics and SLA Routing
 
 <img src="screenshots/01-osticket-help-topics-sla-routing.png" width="750">
 
@@ -69,7 +117,7 @@ Configured help topics and SLA routing policies to organize incoming support req
 
 ---
 
-### SLA Priority Management
+## SLA Priority Management
 
 <img src="screenshots/02-osticket-sla-priority-management.png" width="750">
 
@@ -77,7 +125,7 @@ Created SLA plans to define response expectations for normal, high-priority, and
 
 ---
 
-### Agents and Departments
+## Agents and Departments
 
 <img src="screenshots/03-osticket-agents-and-departments.png" width="750">
 
@@ -85,7 +133,7 @@ Created multiple departments and agent accounts with role-based permissions to s
 
 ---
 
-### HR Onboarding Ticket Workflow
+## HR Onboarding Ticket Workflow
 
 <img src="screenshots/04-osticket-ticket-workflow-hr-onboarding.png" width="750">
 
@@ -93,7 +141,7 @@ Demonstrated department-based ticket routing by forwarding a new employee onboar
 
 ---
 
-### Multi-Ticket Queue Management
+## Multi-Ticket Queue Management
 
 <img src="screenshots/05-osticket-multi-priority-ticket-queue.png" width="750">
 
@@ -101,7 +149,7 @@ Created multiple realistic support tickets to demonstrate queue management, tick
 
 ---
 
-### End-to-End Ticket Resolution
+## End-to-End Ticket Resolution
 
 <img src="screenshots/06-osticket-end-to-end-ticket-resolution.png" width="750">
 
@@ -139,6 +187,8 @@ Demonstrated the full ticket lifecycle, including ticket creation, department as
 - Customer support process design
 - End-to-end ticket lifecycle management
 
+---
+
 ## Future Improvements
 
 - Configure email integration
@@ -146,4 +196,4 @@ Demonstrated the full ticket lifecycle, including ticket creation, department as
 - Expand the knowledge base
 - Add automated ticket escalation
 - Create reporting and analytics dashboards
-- Document installation and configuration steps
+- Document full installation and configuration procedures
