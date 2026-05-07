@@ -24,3 +24,10 @@ This document outlines the installation and configuration process used to deploy
 
 ```bash
 sudo apt update && sudo apt upgrade -y
+
+---
+
+# Step 2 — Update Ubuntu Server
+
+```bash
+sudo apt install apache2 -y
