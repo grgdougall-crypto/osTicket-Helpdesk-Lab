@@ -87,7 +87,7 @@ This project was designed to demonstrate practical skills commonly used in help 
 
 ## Hyper-V Virtual Lab Environment
 
-<img src="screenshots/07-hyperv-lab-environment.png" width="750">
+<img src="screenshots/07-hyperv-ubuntu-server-environment.png" width="750">
 
 Hyper-V virtual environment hosting the Ubuntu-based osTicket server and supporting lab infrastructure.
 
@@ -95,7 +95,7 @@ Hyper-V virtual environment hosting the Ubuntu-based osTicket server and support
 
 ## MariaDB osTicket Database Verification
 
-<img src="screenshots/08-mariadb-osticket-database.png" width="750">
+<img src="screenshots/08-mariadb-helpdesk-database.png" width="750">
 
 MariaDB command-line verification showing osTicket database tables successfully installed and configured.
 
@@ -103,7 +103,7 @@ MariaDB command-line verification showing osTicket database tables successfully 
 
 ## Apache Web Service Connectivity Test
 
-<img src="screenshots/09-apache-web-connectivity-test.png" width="750">
+<img src="screenshots/09-Linux-network-and-web-verification.png" width="750">
 
 Linux terminal connectivity testing verifying Apache web services and osTicket web portal accessibility.
 
