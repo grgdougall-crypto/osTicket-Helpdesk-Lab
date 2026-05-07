@@ -2,7 +2,7 @@
 
 ## Overview
 
-This document outlines the installation and configuration process used to deploy the osTicket help desk environment on Ubuntu Server using Apache, MariaDB, and PHP.
+This document outlines the installation and configuration process used to deploy the osTicket help desk environment within a Hyper-V virtual lab using Ubuntu Server, Apache2, MariaDB, PHP, and osTicket.
 
 ---
 
@@ -24,5 +24,3 @@ This document outlines the installation and configuration process used to deploy
 
 ```bash
 sudo apt update && sudo apt upgrade -y
-
-sudo apt install apache2 -y
